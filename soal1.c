@@ -3,7 +3,10 @@
  *   Hari dan Tanggal    : Senin, 27 April 2026
  *   Nama (NIM)          : Khairina Safira Nurazizah (13224021)
  *   Nama File           : 
- *   Deskripsi           : soal 1
+ *   Deskripsi           : Menamping pembacaan input kemudian menghitung, mengurutkan, dan mencari mediannya sebagai kondisi umum.
+ *                         Input berakhir ketika membaca -1. Jika banyak data ganjil median adalah elemen tengah, dan jika genap mediannya
+ *                         adalah rata-rata dua elemen tengah, dicetak .50 atau .00 bila perlu
+ * 
  * 
  */
 
